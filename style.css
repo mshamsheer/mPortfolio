@@ -24,6 +24,9 @@
     padding: 0;
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
+
+    
+    
     
     
 }
@@ -83,6 +86,7 @@ body{
 .container{
     width: 100%;
     position: relative;
+    overflow-x: hidden;
 }
 
 /* ----- NAVIGATION BAR ----- */
@@ -652,7 +656,7 @@ footer{
     }
     .project-container{
         justify-content: center;
-    }
+    } 
     .project-box{
         width: 80%;
     }
@@ -662,6 +666,7 @@ footer{
 /* ----- MEDIA QUERY == 540px / RESPONSIVE ----- */
 
 @media only screen and (max-width: 540px){
+    
     .featured-name{
         font-size: 40px;
     }
