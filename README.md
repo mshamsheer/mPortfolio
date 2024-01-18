@@ -1,6 +1,6 @@
 # mshamsheer's Portfolio
 
-Welcome to my personal portfolio repository! This project showcases my skills, projects, and experiences in the field of [insert your field or expertise]. Feel free to explore the various sections to learn more about my journey and the work I've done.
+Welcome to my personal portfolio repository! This project showcases my skills, projects. Feel free to explore the various sections to learn more about my journey and the work I've done.
 
 ## Features
 
